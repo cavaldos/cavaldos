@@ -8,15 +8,10 @@ Full-stack developer from Vietnam. Software Engineering graduate from HCMUS.
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=cavaldos&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavaldos&theme=dracula&hide_border=true&layout=compact&langs_count=8)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cavaldos&theme=dracula)](https://github.com/cavaldos)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cavaldos&theme=dracula)](https://github.com/cavaldos)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cavaldos&theme=dracula&hide_border=true)
-
-### Featured Projects
-
-[![Ice](https://github-readme-stats.vercel.app/api/pin/?username=cavaldos&repo=Ice&theme=dracula&hide_border=true)](https://github.com/cavaldos/Ice)
-[![MonkeyNote](https://github-readme-stats.vercel.app/api/pin/?username=cavaldos&repo=MonkeyNote&theme=dracula&hide_border=true)](https://github.com/cavaldos/MonkeyNote)
 
 ### 🐍 Contributions
 
