@@ -1,7 +1,3 @@
-# Hi, I'm Nguyen Ngoc Khanh 👋
-
-Full-stack developer from Vietnam. Software Engineering graduate from HCMUS.
-
 ## Stats
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cavaldos&theme=dracula)](https://github.com/cavaldos) [![](https://cavaldos.github.io/cavaldos-private/top-langs.svg)](https://github.com/cavaldos)
