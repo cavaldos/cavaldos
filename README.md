@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/cavaldos?tab=repositories">
-    <img src="https://cavaldos.github.io/cavaldos-private/stats.svg" alt="Stats" width="49%" />
+    <img src="https://cavaldos.github.io/cavaldos-private/stats.svg?v=2" alt="Stats" width="49%" />
   </a>
   <a href="https://github.com/cavaldos">
-    <img src="https://cavaldos.github.io/cavaldos-private/top-langs.svg" alt="Top Languages" width="37%" />
+    <img src="https://cavaldos.github.io/cavaldos-private/top-langs.svg?v=2" alt="Top Languages" width="49%" />
   </a>
 </p>
 
