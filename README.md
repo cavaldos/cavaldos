@@ -1,5 +1,7 @@
 ## Stats
 
+[![Total stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fcavaldos.github.io%2Fcavaldos-private%2Ftotal-stars.json)](https://github.com/cavaldos?tab=repositories)
+
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cavaldos&theme=dracula)](https://github.com/cavaldos) [![](https://cavaldos.github.io/cavaldos-private/top-langs.svg)](https://github.com/cavaldos)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cavaldos&theme=dracula&hide_border=true)
