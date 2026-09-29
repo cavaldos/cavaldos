@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<p align="center"><img src="https://cavaldos.github.io/cavaldos-private/activity-graph.svg?v=1" alt="GitHub contribution activity graph" width="70%" /></p>
-
 ### 🐍 Contributions
 
 <picture>
