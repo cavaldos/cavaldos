@@ -1,8 +1,15 @@
 ## Stats
 
-[![Stats](https://cavaldos.github.io/cavaldos-private/stats.svg)](https://github.com/cavaldos?tab=repositories) [![](https://cavaldos.github.io/cavaldos-private/top-langs.svg)](https://github.com/cavaldos)
+<p align="center">
+  <a href="https://github.com/cavaldos?tab=repositories">
+    <img src="https://cavaldos.github.io/cavaldos-private/stats.svg" alt="Stats" width="49%" />
+  </a>
+  <a href="https://github.com/cavaldos">
+    <img src="https://cavaldos.github.io/cavaldos-private/top-langs.svg" alt="Top Languages" width="37%" />
+  </a>
+</p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=cavaldos&theme=dracula&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cavaldos&theme=dracula&hide_border=true" alt="GitHub contribution activity graph" />
 
 ### 🐍 Contributions
 
@@ -10,7 +17,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cavaldos.github.io/cavaldos-private/github-snake-dark.svg" />
   <img src="https://cavaldos.github.io/cavaldos-private/github-snake.svg" alt="snake eating contributions" />
 </picture>
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=swift,react,nextjs,tailwind,ts,js,nodejs,express,nestjs,mongodb,mysql,docker,aws,git,linux,vim,vscode)](https://skillicons.dev)
