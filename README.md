@@ -8,10 +8,10 @@
     <img src="https://cavaldos.github.io/cavaldos-private/top-langs.svg?v=2" alt="Top Languages" width="49%" />
   </a>
 </p>
-
+<!--- 
 ### 🐍 Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cavaldos.github.io/cavaldos-private/github-snake-dark.svg" />
   <img src="https://cavaldos.github.io/cavaldos-private/github-snake.svg" alt="snake eating contributions" />
 </picture>
+--->
